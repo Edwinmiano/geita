@@ -5,22 +5,22 @@ import 'slick-carousel/slick/slick-theme.css';
 
 const testimonials = [
   {
-    name: 'John Smith',
+    name: 'Kamau Njoroge',
     role: 'Project Manager',
-    company: 'ABC Construction',
-    content: 'Geita Investments has been instrumental in our project success. Their quality materials and timely delivery have made them our go-to supplier.',
+    company: 'Kifaru Developers Ltd',
+    content: 'Geita Investments has been our trusted supplier for multiple residential projects in Nairobi. Their quality materials and reliable delivery have been crucial to our success.',
   },
   {
-    name: 'Sarah Johnson',
+    name: 'Akinyi Otieno',
     role: 'Site Engineer',
-    company: 'XYZ Developers',
-    content: 'The expert consultation provided by Geita Investments team helped us make informed decisions for our construction materials.',
+    company: 'Mwananchi Contractors',
+    content: 'The expert consultation from Geita Investments team has helped us make cost-effective decisions for our construction materials. Their knowledge of local building requirements is exceptional.',
   },
   {
-    name: 'Michael Brown',
+    name: 'Kiprop Kipruto',
     role: 'Construction Manager',
-    company: 'BuildRight Ltd',
-    content: 'Exceptional service and product quality. Geita Investments consistently delivers on their promises.',
+    company: 'Upendo Properties',
+    content: 'As a property developer in Eldoret, finding a reliable construction materials supplier was crucial. Geita Investments has exceeded our expectations with their quality and service.',
   },
 ];
 
